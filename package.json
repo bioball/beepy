@@ -1,0 +1,19 @@
+{
+  "name": "beepy",
+  "version": "1.0.0",
+  "description": "Play a marimba beep",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bioball/beepy.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bioball/beepy/issues"
+  },
+  "homepage": "https://github.com/bioball/beepy"
+}
