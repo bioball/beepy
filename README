@@ -1,8 +1,8 @@
-beep
+beepy
 ====
 
 Play a marimba beep.
 
 Example:
-var beep = require('beep');
-beep();
+var beepy = require('beepy');
+beepy();
