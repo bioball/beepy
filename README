@@ -6,3 +6,8 @@ Play a marimba beep.
 Example:
 var beepy = require('beepy');
 beepy();
+
+
+## Installation
+
+npm install beepy
