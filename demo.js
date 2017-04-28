@@ -1,0 +1,3 @@
+var beepy = require('./');
+
+beepy();
