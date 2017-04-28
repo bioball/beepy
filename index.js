@@ -19,13 +19,6 @@ var wait = function(ms){
   });
 };
 
-var mapOver = function (n) {
-  var res = [];
-  for (var i = 0; i < n; i++) {
-    res.push(n)
-  }
-}
-
 /**
  * Plays a marima beep.
  * 

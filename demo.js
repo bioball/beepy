@@ -1,3 +1,5 @@
 var beepy = require('./');
 
-beepy();
+beepy().then(function(){
+  return beepy(3);
+});
